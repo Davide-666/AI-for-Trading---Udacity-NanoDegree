@@ -1,3 +1,2 @@
-# AI-for-Trading---Udacity-NanoDegree
-### This repositories contains the project files of the ND
+### This repositories contains the project files of the NanoDegree
 ###  @P1 - Trading with Momentum 
